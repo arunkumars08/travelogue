@@ -1,0 +1,38 @@
+{
+  "name": "travelogue",
+  "version": "1.0.0",
+  "description": "A simple, clean, elegant and awe-striking travel blog theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkumars08/travelogue.git"
+  },
+  "keywords": [
+    "Blog",
+    "theme",
+    "Travelogue",
+    "Travel",
+    "blog",
+    "Elegant",
+    "theme",
+    "clean",
+    "and",
+    "simple",
+    "blog",
+    "theme"
+  ],
+  "author": "Arunkumar Srisailapathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkumars08/travelogue/issues"
+  },
+  "homepage": "https://github.com/arunkumars08/travelogue#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^2.3.2"
+  }
+}
